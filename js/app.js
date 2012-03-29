@@ -1,8 +1,8 @@
 App = (function () {
     var customIcons = {
             parc: {
-                icon: 'images/mm_20_green.png' ,
-                shadow: 'images/mm_20_shadow.png'
+                icon: 'images/green-pin.png' ,
+                shadow: 'images/green-pin-shadow.png'
             },
           
             other: {
