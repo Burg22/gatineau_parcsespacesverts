@@ -11,8 +11,8 @@ App = (function () {
         GLatLng = GMap.LatLng,
         customIcons = {
             parc: {
-                icon: 'images/mm_20_green.png',
-                shadow: 'images/mm_20_shadow.png'
+                icon: 'images/marker.png',
+                shadow: 'images/shadow.png'
             },
           
             other: {
